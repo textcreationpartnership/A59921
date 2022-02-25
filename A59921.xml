@@ -1,0 +1,988 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Youths tragedy a poem drawn up by way of dialogue between [brace] Youth, the Devil, Wisdome, the Nuncius, Time, Death, the Soul : for the caution and direction of the younger sort / by T.S.</title>
+            <author>T. S. (Thomas Sherman)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59921</idno>
+            <idno type="STC">Wing S3392</idno>
+            <idno type="STC">ESTC R37547</idno>
+            <idno type="EEBO-CITATION">16971671</idno>
+            <idno type="OCLC">ocm 16971671</idno>
+            <idno type="VID">105559</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105559)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1159:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Youths tragedy a poem drawn up by way of dialogue between [brace] Youth, the Devil, Wisdome, the Nuncius, Time, Death, the Soul : for the caution and direction of the younger sort / by T.S.</title>
+                  <author>T. S. (Thomas Sherman)</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Starkey ... and Francis Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>"Licensed and entred according to order."</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105559:1"/>
+            <pb facs="tcp:105559:1" rendition="simple:additions"/>
+            <p>Youths Tragedy, A POEM: Drawn up by way of Dialogue between
+<list>
+                  <item>
+                     <hi>Youth.</hi>
+                  </item>
+                  <item>The <hi>Devil.</hi>
+                  </item>
+                  <item>
+                     <hi>Wiſdome.</hi>
+                  </item>
+                  <item>The <hi>Nuncius.</hi>
+                  </item>
+                  <item>
+                     <hi>Time.</hi>
+                  </item>
+                  <item>
+                     <hi>Death.</hi>
+                  </item>
+                  <item>The <hi>Soul.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>For the Caution, and Direction, of the Younger Sort.</p>
+            <q>
+               <bibl>
+                  <hi>Ex</hi> Martiali.</bibl>
+               <l>Frange toros, pete vina, roſas cape, tingere nardo,</l>
+               <l>Ipſe jubet mortis te meminiſſe Deus.</l>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ex</hi> Homero.</bibl>
+               <l>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+            </q>
+            <p>By <hi>T. S.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed and Entred according to Order.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joh. Starkey</hi> at the <hi>Mitre</hi> in <hi>Fleetſtreet,</hi> near <hi>Temple-Barr,</hi> and <hi>Francis Smith</hi> at the <hi>Caſtle</hi> and <hi>Elephant</hi> without <hi>Temple-Barr,</hi> 1671.</p>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:105559:2"/>
+            <head>The Speakers.</head>
+            <list>
+               <item>YOuth.</item>
+               <item>
+                  <hi>The</hi> Devil.</item>
+               <item>Wiſdome.</item>
+               <item>
+                  <hi>The</hi> Nuncius.</item>
+               <item>Time.</item>
+               <item>Death.</item>
+               <item>
+                  <hi>The</hi> Soul.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:105559:2"/>
+            <head>Youths Tragedie, A POEM Drawn up By way of Dialogue, for the Caution, and Directi<g ref="char:EOLhyphen"/>on of the younger ſort.</head>
+            <lg>
+               <head>The Prologue.</head>
+               <l>
+                  <hi>If thou art ſerious, then attend, and ſee,</hi>
+               </l>
+               <l>
+                  <hi>If not, yet ſtay, that thou may'st ſerious bee.</hi>
+               </l>
+            </lg>
+            <sp>
+               <speaker>YO<g ref="char:V">Ʋ</g>TH.</speaker>
+               <lg>
+                  <l>HOw pleaſant is it, when the Sun diſplayes,</l>
+                  <l>From <hi>ARIES</hi>'s Golden Fleece, his Golden Rayes,</l>
+                  <l>How do the Creatures triumph for to ſee,</l>
+                  <l>Impriſon'd <hi>NAT<g ref="char:V">Ʋ</g>RE,</hi> ſet at libertie.</l>
+                  <l>How doth the <hi>EARTH</hi> rejoyce, that ſhe is ſeen</l>
+                  <l>Cloath'd in a rich imbroid'red <hi>VEST</hi> of Green.</l>
+                  <pb n="2" facs="tcp:105559:3"/>
+                  <l>
+                     <hi>FLORA</hi> now ſmiles, to ſee her ſelf ſo fair,</l>
+                  <l>And comes abroad for to perfume the Air.</l>
+                  <l>The Heavens are pleaſant, darkſome Clouds do flie,</l>
+                  <l>And give a Proſpect of an Azur'd Skie;</l>
+                  <l>The pretty winged Quire, from their ſweet Throats,</l>
+                  <l>Fill every place, with their Melodious Notes.</l>
+               </lg>
+               <lg>
+                  <l>And what is <hi>YO<g ref="char:V">Ʋ</g>TH?</hi> but like another Spring,</l>
+                  <l>And therefore Young man, now rejoyce, and ſing,</l>
+                  <l>Diſcharge ſad Thoughts, follow thy Recreation,</l>
+                  <l>Whil'ſt that thy Blood hath a free circulation.</l>
+                  <l>Let Old <hi>BARZILLAIES</hi> now refuſe the Court,</l>
+                  <l>Thy nimble parts, adapted are for ſport,</l>
+                  <l>Let thy heart chear thee, and now chuſe delight,</l>
+                  <l>According as thine Eye ſhall thee invite.</l>
+               </lg>
+            </sp>
+            <stage>The <hi>DEVIL</hi> and <hi>YO<g ref="char:V">Ʋ</g>TH.</hi>
+            </stage>
+            <sp>
+               <speaker>Devil.</speaker>
+               <l>Bravely reſolv'd, give up thy ſtrength, and time,</l>
+               <l>To pleaſe thy ſelf, and all things ſhall be thine.</l>
+               <l>Goe view from <hi>SO<g ref="char:V">Ʋ</g>THERN</hi> to the <hi>ARCTICK</hi> Pole,</l>
+               <l>The glory over which the Heavens do role,</l>
+               <l>And make thy choice, when done, put forth thy hand,</l>
+               <l>And pleaſe thy ſelf, it's all at thy command.</l>
+               <l>
+                  <hi>RICHES</hi> ſhall at thy Feet full Bags fling down,</l>
+               <l>And give a Golden Chain, and Scarlet Gown,</l>
+               <l>HONOUR will quickly court thee, and ſhall ſet</l>
+               <l>Upon thy Head, a Golden Corroner,</l>
+               <pb n="3" facs="tcp:105559:3"/>
+               <l>PLEASURE ſhall ſtrow thy paths with Fragrant Flowers,</l>
+               <l>And Solace thee within her Shady Bowers;</l>
+               <l>Only this word of Counſel, muſt thee guide,</l>
+               <l>Trouble thy Head with nothing elſe beſide,</l>
+            </sp>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>I'le take thy Counſel, <hi>CONSCIENCE</hi> now adiew,</l>
+               <l>I ſee I ſhall have little need of you,</l>
+               <l>I am reſolv'd to ſuffer no controul,</l>
+               <l>But to purſue theſe things with all my SOUL.</l>
+            </sp>
+            <stage>
+               <hi>WISDOM</hi> and <hi>YO<g ref="char:V">Ʋ</g>TH.</hi>
+            </stage>
+            <sp>
+               <speaker>Wiſdom.</speaker>
+               <l>Purſue with all thy <hi>SO<g ref="char:V">Ʋ</g>L,</hi> nay fond <hi>YO<g ref="char:V">Ʋ</g>TH</hi> ſtand,</l>
+               <l>And view the Lie, that's lodg'd in thy right hand,</l>
+               <l>He that theſe great things to thee doth propoſe,</l>
+               <l>Is free to promiſe what he can't diſpoſe,</l>
+               <l>Neither canſt thou acquire, with all thy haſte,</l>
+               <l>Far leſſer things, if <hi>GOD</hi> endeavours blaſt.</l>
+               <l>But grant thou had'ſt what's promis'd, yet thy mind</l>
+               <l>Inſtead of <hi>JOY,</hi> would but <hi>VEXATION</hi> find,</l>
+               <l>Inlarg'd deſires will keep thee from <hi>CONTENT,</hi>
+               </l>
+               <l>And what can't ſatisfie, will but <hi>TORMENT.</hi>
+               </l>
+               <l>But could the <hi>WORLD</hi> compleat <hi>JOY</hi> to thee bring,</l>
+               <l>Yet at the beſt, it's but a tranſient thing,</l>
+               <l>Theſe <hi>WORLDLY</hi> things which thou enjoy'ſt to day,</l>
+               <l>To morrow may make Wings, and fly away.</l>
+               <l>Thy Soul's Immortal, look what doth agree</l>
+               <l>Unto its NATURE, that muſt Satiate thee,</l>
+               <pb n="4" facs="tcp:105559:4"/>
+               <l>There's naught but the great <hi>FO<g ref="char:V">Ʋ</g>NTAIN GOOD</hi> that will</l>
+               <l>Suit with thy <hi>SO<g ref="char:V">Ʋ</g>L,</hi> and thy vaſt <hi>SPIRIT</hi> fill.</l>
+               <l>Come then, and tread thoſe Paths that will thee bring</l>
+               <l>Unto the everlaſting flowing <hi>SPRING</hi>
+               </l>
+               <l>Of pure, unmixed, intellectual <hi>JOYES,</hi>
+               </l>
+               <l>Why ſhould'ſt thou cheat thy ſelf with empty <hi>TOYES.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>The way is Long, and Thornie, that doth lead</l>
+               <l>Unto theſe <hi>JOYES,</hi> and thoſe that do it tread,</l>
+               <l>Water their Steps with Tears, and break their Reſt</l>
+               <l>With thoſe ſad Sighs and Groans which fill their Breſt.</l>
+               <l>
+                  <hi>WORMWOOD,</hi> and <hi>GALL,</hi> on each ſide of it grow,</l>
+               <l>
+                  <hi>CROSSES,</hi> and <hi>JEARS,</hi> this dolorous way do ſtrow,</l>
+               <l>And all along this Path you may eſpie,</l>
+               <l>Here ſcatt'red a right Hand, there a right Eye,</l>
+               <l>Here a dear Luſt, there a dead Comfort lies,</l>
+               <l>By <hi>SELF-DENIAL,</hi> made a Sacrifice;</l>
+               <l>And on the Hills do fired Beacons flame,</l>
+               <l>Which round about, invading <hi>FOES</hi> proclaime:</l>
+               <l>To whom I either muſt become a Prey,</l>
+               <l>Or through their Hoſtile Troops muſt fight my way.</l>
+               <l>Pardon me then, if that I doe refuſe,</l>
+               <l>Such <hi>DOLEF<g ref="char:V">Ʋ</g>L WAYES</hi> of Trouble, for to chuſe.</l>
+            </sp>
+            <sp>
+               <speaker>Wiſdom.</speaker>
+               <lg>
+                  <l>Though at the firſt, this <hi>WAY</hi> may ſeem to be</l>
+                  <l>A Thornie, Rough, Unpleaſant Path to thee,</l>
+                  <l>Yet doe but trie it, what at firſt ſeems hard,</l>
+                  <l>Will eaſie prove unto thee afterward.</l>
+                  <l>For when thy heart, ſhall be enlarg'd with love,</l>
+                  <l>Unto thoſe glorious things which are above;</l>
+                  <pb n="5" facs="tcp:105559:4"/>
+                  <l>Then wilt thou run theſe Wayes with great delight,</l>
+                  <l>For in them, there is ſtrength to the upright.</l>
+                  <l>Let not thoſe Tears affright thee, that are ſpent</l>
+                  <l>The future <hi>FLOODS</hi> of ſorrow to prevent,</l>
+                  <l>No Wine ſo precious, as what doth ariſe,</l>
+                  <l>From the ſweet ſprings, of penetential eyes,</l>
+                  <l>No frame like this, where comfort doth ſo thrive,</l>
+                  <l>For <hi>GOD</hi> the contrite ſpirit doth revive.</l>
+                  <l>Nor let it daunt thee, that thou muſt denye</l>
+                  <l>Thy <hi>YO<g ref="char:V">Ʋ</g>THF<g ref="char:V">Ʋ</g>L L<g ref="char:V">Ʋ</g>STS,</hi> and dear ſelf <hi>MORTIFIE,</hi>
+                  </l>
+                  <l>The bleſſed end is, that thou may'ſt <hi>DESTROY</hi>
+                  </l>
+                  <l>Thoſe <hi>S<g ref="char:V">Ʋ</g>CCORS,</hi> that would hinder thy true <hi>JOY,</hi>
+                  </l>
+                  <l>And whil'ſt Thou Conflicts thus, and giv'ſt the <hi>FOYL</hi>
+                  </l>
+                  <l>Thoul't ſing with thoſe that do divide the <hi>SPOYL.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Let not the <hi>CROSS</hi> diſmay thee; God will fit</l>
+                  <l>It to thy Back, or thy Back unto it.</l>
+                  <l>And what Affliction, he doth to thee meaſure,</l>
+                  <l>It's for thy profit, and not for his pleaſure,</l>
+                  <l>That with more even ſteps thy <hi>SO<g ref="char:V">Ʋ</g>L</hi> may preſs,</l>
+                  <l>Forward unto its final happineſs.</l>
+               </lg>
+               <lg>
+                  <l>Fear not to Fight, the Conqueſt ſhall be ſure,</l>
+                  <l>To him that doth unto the End endure,</l>
+                  <l>For by a Hand of Strength, he ſhall be led</l>
+                  <l>Ipon the Necks, of all his <hi>FOES</hi> to tread.</l>
+                  <l>And on a <hi>THRONE</hi> of <hi>GLORY</hi> ſhall fit down</l>
+                  <l>With ſongs of <hi>PRAISE,</hi> and a triumphant <hi>CROWN.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Call not theſe Paths then <hi>DOLESOM, YO<g ref="char:V">Ʋ</g>NGMAN</hi> ceaſe,</l>
+                  <l>All <hi>WISDOMS WAYS,</hi> are <hi>PLEASANTNESS</hi> &amp; <hi>PEACE.</hi>
+                  </l>
+                  <pb n="6" facs="tcp:105559:5"/>
+                  <l>Whil'ſt a good <hi>CONSCIENCE</hi> lodgeth in thy Breſt,</l>
+                  <l>Thou need'ſt not doubt of a continual Feaſt.</l>
+                  <l>Ask thoſe that follow <hi>WISDOM,</hi> and they'l ſay,</l>
+                  <l>They feed on hidden <hi>MANNA</hi> in their way,</l>
+                  <l>By arts of <hi>FAITH,</hi> and <hi>LOVE,</hi> they now poſſeſs,</l>
+                  <l>That inward Sweetneſs, which they cann't expreſs.</l>
+                  <l>Strong <hi>CONSOLATIONS</hi> here do fill their <hi>C<g ref="char:V">Ʋ</g>P,</hi>
+                  </l>
+                  <l>Whil'ſt with eternal <hi>LOVE</hi> their Souls do Sup.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>I underſtand not how theſe <hi>JOYES</hi> commence,</l>
+               <l>
+                  <hi>YO<g ref="char:V">Ʋ</g>TH</hi> muſt have ſomething that may pleaſe the ſenſe;</l>
+               <l>Therefore forbear untill thou offer'ſt that,</l>
+               <l>Which may be ſuited to my preſent State.</l>
+            </sp>
+            <sp>
+               <speaker>Wiſdom.</speaker>
+               <l>Fond <hi>YO<g ref="char:V">Ʋ</g>TH,</hi> thou know'ſt not what is true delight,</l>
+               <l>It's not to pleaſe the ſenſual <hi>APPETIT,</hi>
+               </l>
+               <l>This will debaſe thy <hi>NAT<g ref="char:V">Ʋ</g>RE,</hi> and the <hi>FR<g ref="char:V">Ʋ</g>IT,</hi>
+               </l>
+               <l>Will be to lay thee level with the <hi>BR<g ref="char:V">Ʋ</g>ITE.</hi>
+               </l>
+               <l>That which ennobles, and doth truly raiſe,</l>
+               <l>Are <hi>VISIONS,</hi> of thoſe <hi>BEAMS</hi> which <hi>GOD</hi> diſplayes,</l>
+               <l>From his ſweet reconciled <hi>FACE,</hi> which make</l>
+               <l>The <hi>SO<g ref="char:V">Ʋ</g>L</hi> of his bleſs'd <hi>NAT<g ref="char:V">Ʋ</g>RE</hi> to partake.</l>
+            </sp>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>Theſe are but darkſom <hi>RIDDLES,</hi> canting <hi>STREINS,</hi>
+               </l>
+               <l>Fitted to ſuit with <hi>MELANCHOLY</hi> Veins;</l>
+               <l>What canſt thou offer now unto my <hi>EYE,</hi>
+               </l>
+               <l>That will the <hi>GLORY</hi> of this <hi>WORLD</hi> outvie.</l>
+            </sp>
+            <sp>
+               <speaker>Wiſdom.</speaker>
+               <l>Whilſt thou a darkſom <hi>RIDDLE</hi> this doſt call,</l>
+               <l>Thou ſhow'ſt thy woful Darkneſs ſince the fall,</l>
+               <l>For though an inſtinct ſtill remains to <hi>BLISS,</hi>
+               </l>
+               <l>Yet wanteſt Light to guide thee where it is.</l>
+               <pb n="7" facs="tcp:105559:5"/>
+               <l>But will the good things of this world content?</l>
+               <l>Then view what WISDOM doth of this preſent:</l>
+               <l>HONOUR and RICHES her left hand enfolds,</l>
+               <l>And in her right hand length of dayes ſhe holds;</l>
+               <l>Which ſhe gives forth to them that do her love,</l>
+               <l>So far as they may real bleſſings prove:</l>
+               <l>If what thou haſt be mixed with a curſe,</l>
+               <l>It will prove to thee <hi>VANITY,</hi> nay, worſe.</l>
+               <l>That hand of <hi>Mercy</hi> that gives forth the Treaſure,</l>
+               <l>To make it Mercy, muſt give forth the Meaſure;</l>
+               <l>That hand muſt guide thee how it muſt be us'd,</l>
+               <l>
+                  <hi>MERCIES</hi> prove <hi>JVDGMENTS</hi> when they are abus'd.</l>
+               <l>Take all thy good things then from <hi>WISDOMS</hi> hand,</l>
+               <l>And uſe thoſe good things as ſhe doth command.</l>
+            </sp>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>Lady, excuſe me till another day,</l>
+               <l>There's time enough hereafter for this way;</l>
+               <l>Let me my youthful dayes pleaſe in their choice,</l>
+               <l>And then I'le pomiſe to obey thy <hi>VOICE;</hi>
+               </l>
+               <l>When <hi>AGE</hi> hath quencht within, this luſtful fire,</l>
+               <l>And ſhall in private weary limbs retire;</l>
+               <l>This will a ſeaſon be to bend my mind,</l>
+               <l>Unto thoſe wayes where I may <hi>WISDOM</hi> find.</l>
+            </sp>
+            <sp>
+               <speaker>Wiſd.</speaker>
+               <lg>
+                  <l>Vain <hi>YOVTH,</hi> vain <hi>YOVTH,</hi> hereafter is not thine,</l>
+                  <l>He that hath now <hi>no</hi> heart, may have <hi>no</hi> time.</l>
+                  <l>That Captain which to day doth termes afford,</l>
+                  <l>May ſtorm to morrow, and put all to'th' Sword;</l>
+                  <l>And he that this day will not ſpread his ſayl,</l>
+                  <l>To morrow, if he would, may find no gale:</l>
+                  <pb n="8" facs="tcp:105559:6"/>
+                  <l>Or he that gives Grace to the penitent,</l>
+                  <l>May not <hi>REPENTANCE</hi> give to'th negligent.</l>
+                  <l>But wilt thou in old <hi>AGE</hi> theſe wayes embrace?</l>
+                  <l>Are weary limbs fit for to run a race?</l>
+                  <l>And when the day is ready to ſhut in,</l>
+                  <l>Is that a time this Great work to begin?</l>
+                  <l>Shall <hi>SATAN</hi> be preſented with the prime,</l>
+                  <l>And <hi>WISDOM</hi> only have the Dregs of Time?</l>
+               </lg>
+               <lg>
+                  <l>In depth of <hi>Winter,</hi> when the Heavens are ſpred</l>
+                  <l>With a black Vail, and all lights darkened;</l>
+                  <l>When Clouds do thick return after the rain,</l>
+                  <l>And their repeated ſhowers pour down amain;</l>
+                  <l>When that Tempeſtuous STORMS beat round about,</l>
+                  <l>Is this the only <hi>Seaſon</hi> to ſet out?</l>
+                  <l>Surely, if ſerious, this thou wilt not ſay,</l>
+                  <l>Why is it then, vain YOUTH, thou would'ſt delay?</l>
+                  <l>Oh that there were within thee once a heart,</l>
+                  <l>From all the wayes of FOLLY to depart.</l>
+                  <l>Thoſe <hi>gaudy things</hi> with which ſhe takes thine eye,</l>
+                  <l>Thou wilt be ſure to find but <hi>VANITY.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>The <hi>WISE MAN,</hi> though he ſaid ſo, yet would try</l>
+               <l>Before he did believe it; ſo will I.</l>
+            </sp>
+            <sp>
+               <speaker>Wiſd.</speaker>
+               <l>But having try'd it, he hath fix'd a <hi>Buoy,</hi>
+               </l>
+               <l>That others might not here themſelves deſtroy.</l>
+               <l>His own EXPERIENCE he hangs out for light,</l>
+               <l>That thou may'ſt ſee to ſteer thy way aright;</l>
+               <l>He ſets a mark upon this dangerous ſhoal,</l>
+               <l>That upon it thou might'ſt not wrack thy Soul.</l>
+               <pb n="9" facs="tcp:105559:6"/>
+               <l>By Cautions, Warnings, Tears, and ſad Remorſe,</l>
+               <l>He ſhews the <hi>Hazard</hi> of this <hi>woful</hi> courſe.</l>
+               <l>If after all this, when that thou haſt ſeen</l>
+               <l>Thoſe tops of <hi>MASTS</hi> where ſad ſhipwrack hath been,</l>
+               <l>Yet thou wilt venture fooliſhly to ſtray,</l>
+               <l>Though <hi>he</hi> was ſpar'd, <hi>thou</hi> may'ſt be caſt away.</l>
+               <l>But ſhould'ſt <hi>thou</hi> ſpared be, it hard would prove,</l>
+               <l>Faſt rooted <hi>habits</hi> ever to remove:</l>
+               <l>For like the <hi>Leopards</hi> ſpots, and <hi>NEGRO'S</hi> skin,</l>
+               <l>So <hi>Cuſtom</hi> proveth in a way of ſin.</l>
+            </sp>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>Well, trouble me no more, I muſt fulfill</l>
+               <l>Thoſe ſtrong propenſions that are in my <hi>Will.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Wiſdom.</speaker>
+               <l>And wilt thou ruſh, vain <hi>YO<g ref="char:V">Ʋ</g>TH,</hi> without all fear,</l>
+               <l>Like to the Horſe, upon the charged Spear?</l>
+               <l>Is Life a Trifle? Is a Future ſtate</l>
+               <l>Not worth the caring for? and wilt thou hate</l>
+               <l>Thy precious, <hi>SOVL?</hi> wilt thou inhumane be</l>
+               <l>Unto thy ſelf? oh, wretched <hi>CRVELTY!</hi>
+               </l>
+               <l>Wilt thou the way of <hi>FOLLY</hi> now purſue,</l>
+               <l>And turn thy back on <hi>WISDOM?</hi> then adieu.</l>
+               <l>But let me tell thee, that another day</l>
+               <l>Her path thoul't find, like the <hi>Strange WOMANS</hi> way,</l>
+               <l>Who cometh forth with Smiles, in rich attire,</l>
+               <l>And with her kiſſes <hi>YOVTHFVL LVST</hi> doth fire,</l>
+               <l>In her curl'd Treſſes <hi>LETHAL NETS</hi> do lye,</l>
+               <l>And from her <hi>Eye-lids</hi> killing Darts do fly,</l>
+               <l>Between her breaſts ſurprizing <hi>SNARES</hi> abide,</l>
+               <l>Under her <hi>Beauty</hi> Deadly <hi>VIPERS</hi> hide.</l>
+               <pb n="10" facs="tcp:105559:7"/>
+               <l>With honey ſtrains her ſubtile lips doth court</l>
+               <l>The SIMPLE one, to her deſtructive ſport;</l>
+               <l>With ſpeeches ſmoother than the fineſt OYL,</l>
+               <l>She doth betray into her fatal TOYL.</l>
+               <l>By wanton, amorous glances, ſhe allures,</l>
+               <l>And with embracing arms her prey ſecures.</l>
+               <l>Thus by her flattering wayes the Captive's led,</l>
+               <l>Without all fear, to her perfumed bed;</l>
+               <l>Not thinking that her woful Gueſts do dwell</l>
+               <l>Within DEATHS chambers, and the vaults of HELL.</l>
+               <l>But when a ſtranger's filled with his wealth,</l>
+               <l>And when he hath conſumed all his health,</l>
+               <l>When that his HONOUR, and his LABOUR lies</l>
+               <l>VVithin her Houſe, a ſlaughtered SACRIFICE,</l>
+               <l>VVhen ROTTENNESS enters into his bones,</l>
+               <l>And fills his fleſh with pain, his breſt with groans;</l>
+               <l>How doth he deeply now reflect upon</l>
+               <l>Thoſe years, he gave unto the cruel one!</l>
+               <l>How doth he find that burning COALS he plac'd</l>
+               <l>VVithin his boſom, whil'ſt he her embrac'd!</l>
+               <l>How doth he now from his EXPERIENCE cry,</l>
+               <l>He like a Bird, unto the SNARE did fly!</l>
+               <l>And whilſt unto her way his ſteps he bent,</l>
+               <l>He, like an <hi>OX</hi> unto the ſlaughter went;</l>
+               <l>And that ſame pleaſure which he did ſo like,</l>
+               <l>Now, as a dart, doth through his Liver ſtrike.</l>
+               <l>This is the way of FOLLY, this the end,</l>
+               <l>Her Feet to DEATH, her ſteps to HELL do tend.</l>
+               <pb n="11" facs="tcp:105559:7"/>
+               <l>Like to thoſe ſtreams which through green Meadows glide,</l>
+               <l>Till in the <hi>Dead Sea</hi> they at laſt do ſlide;</l>
+               <l>So runs her Courſe, through PLEASURE though it take,</l>
+               <l>It ends in JUDGMENT, and a fiery LAKE.</l>
+               <l>
+                  <hi>YOVNG MAN,</hi> farewell, oh, mind thy future ſtate,</l>
+               <l>Take Counſel now, before it be too late.</l>
+               <l>Oh now remember thoſe invited GUESTS,</l>
+               <l>That being call'd ſlighted the Marriage Feaſt:</l>
+               <l>But for ſo great contempt did dearly pay,</l>
+               <l>VVhere MERCY could not gain, there WRATH did ſlay.</l>
+            </sp>
+            <sp>
+               <speaker>YO<g ref="char:V">Ʋ</g>TH.</speaker>
+               <lg>
+                  <l>VVhat ſtrange <hi>Impreſſions</hi> do my Spirits feel?</l>
+                  <l>How do my former <hi>Reſolutions</hi> reel?</l>
+                  <l>VVhat ſtrange <hi>CONV<g ref="char:V">Ʋ</g>LSIONS</hi> ſeize upon my Mind?</l>
+                  <l>VVhat inward quick <hi>DISTORTIONS</hi> do I find,</l>
+                  <l>How do my <hi>Thoughts</hi> preſs forth on every ſide,</l>
+                  <l>And in two great <hi>BATTALIAS</hi> do divide;</l>
+                  <l>Aſſaulting each the other with great Force,</l>
+                  <l>Sometimes <hi>LVST</hi> gaining Ground, ſometimes <hi>REMORSE:</hi>
+                  </l>
+                  <l>VVith armed troops, the SENSUAL APPETITE</l>
+                  <l>Doth beat down all before it in the Fight,</l>
+                  <l>Till <hi>CONSCIENCE,</hi> with freſh ſuccours doth oppoſe,</l>
+                  <l>And, by ſtrong hand, her Forces overthrows.</l>
+                  <l>
+                     <hi>AFFECTIONS</hi> ſee it, and do haſte to bring</l>
+                  <l>Relief and Succour to the broken <hi>WING:</hi>
+                  </l>
+                  <pb n="12" facs="tcp:105559:8"/>
+                  <l>And ſo with furious rage, they down do fell</l>
+                  <l>All that their fierce <hi>Impreſſions</hi> would repell;</l>
+                  <l>The <hi>WILL</hi> well backed with the chiefeſt flower</l>
+                  <l>Or <hi>Veteran</hi> Souldiers, with a mighty power</l>
+                  <l>Doth on the Groſs of the <hi>Battalia</hi> fall,</l>
+                  <l>And queſtions not but for to carry all.</l>
+                  <l>And now the <hi>J<g ref="char:V">Ʋ</g>DGMENT</hi> with its utmoſt might</l>
+                  <l>Makes ſtrong reſiſtance, and prevents a flight;</l>
+                  <l>And with brave <hi>Courage,</hi> and repeated blows,</l>
+                  <l>Repreſſeth the great fury of her Foes.</l>
+                  <l>And whilſt they thus engage with Warlike hands,</l>
+                  <l>
+                     <hi>VICTORIA</hi> now between them doubtful ſtands.</l>
+               </lg>
+               <lg>
+                  <l>This is the <hi>War</hi> that gives my Mind no reſt,</l>
+                  <l>My <hi>J<g ref="char:V">Ʋ</g>DGMENT</hi> tells me <hi>WISDOM</hi>'S wayes are beſt:</l>
+                  <l>My <hi>CONSCIENCE</hi> checks me, that I don't obey,</l>
+                  <l>And ſhews the <hi>danger,</hi> if I do delay.</l>
+                  <l>My <hi>WILL,</hi> and my <hi>AFFECTIONS</hi> do oppoſe,</l>
+                  <l>And would with <hi>Senſual Pleaſure</hi> have me cloſe:</l>
+                  <l>Thus in ſad Fears and Cares my thoughts do roul,</l>
+                  <l>Whil'ſt that I have theſe workings in my Soul.</l>
+                  <l>What I ſhall do, I know not, this I find,</l>
+                  <l>That ſtrong <hi>CONVICTIONS</hi> do aſſault my Mind.</l>
+               </lg>
+            </sp>
+            <pb n="13" facs="tcp:105559:8"/>
+            <stage>The <hi>DEVIL, YO<g ref="char:V">Ʋ</g>TH,</hi> and the <hi>N<g ref="char:V">Ʋ</g>NCI<g ref="char:V">Ʋ</g>S.</hi>
+            </stage>
+            <sp>
+               <speaker>Devil.</speaker>
+               <l>
+                  <hi>YOVTH,</hi> What's the matter, wilt thou quit the field,</l>
+               <l>And to a Melancholy <hi>Fancy</hi> yield?</l>
+               <l>Wilt thou expoſe thy ſelf to taunting <hi>JEARS,</hi>
+               </l>
+               <l>Whil'ſt thus thou load'ſt thy breſt with needleſs fears?</l>
+               <l>Go fill thy hand, and head with thoſe affairs,</l>
+               <l>That this <hi>WORLD</hi> calls for, and ſo choak theſe cares:</l>
+               <l>Or take thy <hi>Paſtime</hi> at ſome pleaſant <hi>Play,</hi>
+               </l>
+               <l>And with thoſe ſtreins of <hi>Wit</hi> drive <hi>FEAR</hi> away:</l>
+               <l>With <hi>Scenes</hi> and Objects go and feaſt thine <hi>EYES,</hi>
+               </l>
+               <l>And feed thy <hi>L<g ref="char:V">Ʋ</g>STS</hi> with great Varieties.</l>
+               <l>Or, to thy old Companions ſtraight reſort,</l>
+               <l>And ſo divert thy ſelf with <hi>YO<g ref="char:V">Ʋ</g>THF<g ref="char:V">Ʋ</g>L SPORT.</hi>
+               </l>
+               <l>Go pierce the choiceſt <hi>Liquors,</hi> and drink down</l>
+               <l>Full draughts thereof, till thou theſe <hi>TRO<g ref="char:V">Ʋ</g>BLES</hi> drown:</l>
+               <l>Or joyn thy ſelf unto the Jovial Blades,</l>
+               <l>Who hunt forth <hi>Pleaſure,</hi> in their <hi>Maskarades.</hi>
+               </l>
+               <l>Let thoſe Croſs-workings that thy <hi>Soul</hi> doth meet,</l>
+               <l>Be proſtrate laid at ſome fair <hi>LADIES</hi> feet.</l>
+               <l>Why ſhould thy Day be ſtained with a Cloud,</l>
+               <l>And all thy Comforts under Darkneſs ſhroud?</l>
+            </sp>
+            <sp>
+               <speaker>Nunc.</speaker>
+               <l>The <hi>YO<g ref="char:V">Ʋ</g>NG MAN</hi> yields, this Counſel he obeys</l>
+               <l>And in the paths of <hi>FOLLY</hi> now he ſtrayes,</l>
+               <l>And whil'ſt in <hi>PLEAS<g ref="char:V">Ʋ</g>RE</hi> he his <hi>SO<g ref="char:V">Ʋ</g>L</hi> doth drench,</l>
+               <l>All his <hi>CONVICTIONS</hi> he at laſt doth quench:</l>
+               <pb n="14" facs="tcp:105559:9"/>
+               <l>And ſo his Heart grows hard, his <hi>CONSCIENCE</hi> ſear'd,</l>
+               <l>And now he mocks at that which once he fear'd;</l>
+               <l>From frequent <hi>ACTS,</hi> he comes for to <hi>Deviſe</hi>
+               </l>
+               <l>That againſt which, at firſt, his heart did riſe.</l>
+               <l>(He that will venture on a way of ſin,</l>
+               <l>Many a dreadful ſtep may take therein,)</l>
+               <l>His Time it is but ſhort, for you may ſee</l>
+               <l>In the next <hi>Scene</hi> his ſad CATASTROPHE.</l>
+            </sp>
+            <stage>YOVTH.</stage>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>How do I now in Pleaſures boſom reſt,</l>
+               <l>Whil'ſt Checks and Fears are baniſht from my breſt!</l>
+               <l>Thoſe <hi>MENACES</hi> that on my <hi>THOVGHTS</hi> did throng,</l>
+               <l>I have repuls'd, the threatned man lives long;</l>
+               <l>Is not this better than to whine away,</l>
+               <l>With penſive, pewling <hi>MOPES,</hi> my pleaſant day?</l>
+               <l>How joyful is it now unto my ſight,</l>
+               <l>To ſee my ſelf adrift in all delight?</l>
+               <l>And as this is a day of mirth to me,</l>
+               <l>So ſhall to morrow more abundant be.</l>
+            </sp>
+            <stage>NVNCIVS.</stage>
+            <sp>
+               <speaker>Nun.</speaker>
+               <l>Like to the Poſte that ſwiftly paſſeth by,</l>
+               <l>Or like the <hi>SLAVE</hi> that doth from bondage fly,</l>
+               <pb n="15" facs="tcp:105559:9"/>
+               <l>Or like a nimble Ship, that with full ſayl</l>
+               <l>Doth run her courſe before a proſperous gale:</l>
+               <l>Or as the <hi>Eagle</hi> that her Prey eſpies,</l>
+               <l>Like <hi>Lightning,</hi> with ſwift wings unto it flyes;</l>
+               <l>So <hi>TIME</hi> now ſpeeds, to let the <hi>YOVNG MAN</hi> know</l>
+               <l>That all his way and walks are a <hi>vain ſhow.</hi>
+               </l>
+            </sp>
+            <stage>
+               <hi>TIME</hi> and <hi>YOVTH.</hi>
+            </stage>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>With winged ſwiftneſs I do hither flye,</l>
+               <l>To let <hi>thee</hi> know thy <hi>fatal end</hi> draws nigh.</l>
+               <l>Like to the Graſs, or like the fading Flower,</l>
+               <l>So withereth all thy Glory in an hour;</l>
+               <l>Too late EXPERIENCE now muſt teach <hi>thee</hi> this,</l>
+               <l>Thy <hi>life</hi> a <hi>SHADOW,</hi> and a <hi>VAPO<g ref="char:V">Ʋ</g>R</hi> is.</l>
+               <l>I ſhall no more turn thy neglected Glaſs,</l>
+               <l>A few <hi>ſands</hi> only now remain to paſs;</l>
+               <l>My vvhetted <hi>Sythe</hi> comes next for to be us'd,</l>
+               <l>To let <hi>thee</hi> know, <hi>TIME</hi> vvill not be abus'd.</l>
+            </sp>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>My <hi>aged Father,</hi> turn thy <hi>Sythe</hi> avvay,</l>
+               <l>Cut dovvn the ripened <hi>Ears,</hi> let green ones ſtay;</l>
+               <l>Go vvhere the Fields are vvhite, vvhoſe ſtalks do bend,</l>
+               <l>Under their burden, and there put an end</l>
+               <l>Unto thoſe preſſures, but vvith-hold thy hand</l>
+               <l>From the green <hi>Blades,</hi> let immature ones ſtand.</l>
+               <l>
+                  <hi>I</hi> am too young yet for the <hi>Sythe</hi> of <hi>TIME,</hi>
+               </l>
+               <l>Come vvhen my <hi>Locks</hi> ſhall be as <hi>white</hi> as <hi>thine.</hi>
+               </l>
+            </sp>
+            <pb n="16" facs="tcp:105559:10"/>
+            <sp>
+               <speaker>Time.</speaker>
+               <l>Forbear, fond <hi>YOVTH, TIME</hi>'s not at thy com<g ref="char:EOLhyphen"/>mand,</l>
+               <l>The tender bud oft feeels my cropping hand;</l>
+               <l>Haſt thou not often read <hi>Elegiack</hi> Verſe,</l>
+               <l>Compos'd to celebrate a <hi>VIRGIN</hi> Herſe?</l>
+               <l>Haſt thou not ſeen the Mother, with wet eyes,</l>
+               <l>Sprinkle the duſt wherein her <hi>Young Son</hi> lies;</l>
+               <l>How oft hath <hi>DEATH</hi> white <hi>Trophies,</hi> to declare,</l>
+               <l>Thoſe he leads captive forth, they <hi>young ones</hi> are?</l>
+               <l>
+                  <hi>I</hi> know where lies my Work, advice pray ſpare,</l>
+               <l>Where <hi>I</hi> ſhould reap, and where <hi>I</hi> ſhould forbear,</l>
+               <l>
+                  <hi>I</hi> count thy <hi>SANDS,</hi> and when the laſt <hi>I</hi> ſee</l>
+               <l>
+                  <hi>Fly</hi> to it's <hi>heap,</hi> thou'rt ripe enough for me:</l>
+               <l>
+                  <hi>TIME</hi> vvill not ſtay, look here, thy <hi>Glaſs</hi> is broke,</l>
+               <l>And novv comes <hi>Death</hi> to give the <hi>Fatal ſtroke.</hi>
+               </l>
+            </sp>
+            <stage>
+               <hi>DEATH, N<g ref="char:V">Ʋ</g>NCI<g ref="char:V">Ʋ</g>S,</hi> and <hi>YO<g ref="char:V">Ʋ</g>TH.</hi>
+            </stage>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>
+                  <hi>YOVTH,</hi> come away, for thou muſt with me go</l>
+               <l>To the dark <hi>REGIONS</hi> that do lye below;</l>
+               <l>Come, this ſame hand muſt ſeize upon thy breath,</l>
+               <l>And lead thee dovvn into the ſhades of <hi>DEATH.</hi>
+               </l>
+               <l>Here is no dvvelling for thee, but thou muſt</l>
+               <l>Take up thy lodging vvith me in the <hi>Duſt;</hi>
+               </l>
+               <l>And in thick <hi>Darkneſs</hi> make thy diſmal bed,</l>
+               <l>Whil'ſt cravvling <hi>WORMS</hi> under thy head are ſpread;</l>
+               <l>The pleaſant <hi>light</hi> no more thine <hi>Eyes</hi> ſhall ſee,</l>
+               <l>But vvith <hi>CORRVPTION</hi> thou muſt cover'd be.</l>
+               <pb n="17" facs="tcp:105559:10"/>
+               <l>Thoſe thoughts that are gone forth for to purvey</l>
+               <l>To Feaſt thy <hi>LVSTS,</hi> in this thy yonthful day;</l>
+               <l>And all thoſe pleaſing <hi>Hopes</hi> thou didſt ſo cheriſh,</l>
+               <l>Of long continued <hi>Bliſs,</hi> muſt this day periſh.</l>
+            </sp>
+            <sp>
+               <speaker>Nun.</speaker>
+               <l>Whil'ſt that the <hi>YOVTH</hi> the King of TERROURS views</l>
+               <l>His trembling limbs a <hi>cold ſweat</hi> all bedevvs,</l>
+               <l>His Pulſe beats quick, his gaſhly Face looks pale,</l>
+               <l>His ſpirits ſink, and his ſtout heart doth fail;</l>
+               <l>As vvhen <hi>Defendants</hi> from out vvorks are beat,</l>
+               <l>They to their main ſtrength make a ſwift retreat,</l>
+               <l>That, by united Force, they may oppoſe</l>
+               <l>The fierce attempts of their approaching <hi>Foes;</hi>
+               </l>
+               <l>So to the Heart, his ſcattered Forces flow,</l>
+               <l>That there they may keep off the <hi>fatal blow;</hi>
+               </l>
+               <l>But when this will not do, a parley's beat,</l>
+               <l>And now his Enemy he begins to treat.</l>
+            </sp>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>Oh <hi>DEATH,</hi> forbear me, but a little while,</l>
+               <l>Until my <hi>Veſſel</hi> I provide with <hi>Oyl,</hi>
+               </l>
+               <l>I am not yet prepared with a <hi>Light</hi>
+               </l>
+               <l>To comfort me in this ſame diſmal <hi>Night.</hi>
+               </l>
+               <l>Let not my <hi>Feet</hi> on the dark <hi>MO<g ref="char:V">Ʋ</g>NTAINS</hi> fall</l>
+               <l>For lack of <hi>Light</hi> to guide my ſteps withall.</l>
+               <l>Oh, let my <hi>naked SOVL</hi> put on her <hi>VEST,</hi>
+               </l>
+               <l>Why ſhould I fare like the <hi>unwelcome Gueſt,</hi>
+               </l>
+               <l>In ſtormy weather, pull not down my Tent</l>
+               <l>Before I have a better Tenement?</l>
+               <l>Oh let me ſtay, that I may make a <hi>FRIEND,</hi>
+               </l>
+               <l>For to receive me, at my <hi>JOVRNEYS</hi> end.</l>
+               <pb n="18" facs="tcp:105559:11"/>
+               <l>Oh let me truly <hi>LIVE,</hi> before I <hi>DYE,</hi>
+               </l>
+               <l>I want Proviſion for <hi>ETERNITY.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <l>Vain <hi>YO<g ref="char:V">Ʋ</g>TH,</hi> already thou haſt had thy <hi>Day,</hi>
+               </l>
+               <l>But <hi>GRACE</hi> was ſlighted, <hi>TIME</hi> was ſinn'd away.</l>
+               <l>Could nothing waken but the <hi>MID-NIGHT</hi> Cry</l>
+               <l>For to provide, when 'tis too late to buy?</l>
+               <l>Is it a time thy <hi>NAKED SO<g ref="char:V">Ʋ</g>L</hi> to dreſs,</l>
+               <l>When that the <hi>KING</hi> is come to <hi>view</hi> his <hi>G<g ref="char:V">Ʋ</g>ESS?</hi>
+               </l>
+               <l>Haſt thou a Habitation ſtill neglected,</l>
+               <l>Until the <hi>hour</hi> thou com'ſt to be ejected?</l>
+               <l>When thou art <hi>Harbourleſs,</hi> and Storms begin,</l>
+               <l>Haſt thou a <hi>Friend</hi> to ſeek to take thee in?</l>
+               <l>Ah, careleſs <hi>SO<g ref="char:V">Ʋ</g>L!</hi> how woful is thy <hi>ſtate,</hi>
+               </l>
+               <l>That know'ſt not how to want, or <hi>I</hi> to wait!</l>
+               <l>Come, come away, <hi>I</hi> am not ſent to treat,</l>
+               <l>But for to bring thee to the <hi>JVDGMENT SEAT.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Youth.</speaker>
+               <l>How ſhall <hi>I</hi> now appear be ore that <hi>FACE</hi>
+               </l>
+               <l>That rends the <hi>ROCKS,</hi> and <hi>MOVNTAINS</hi> doth diſplace;</l>
+               <l>That melts the <hi>HILLS,</hi> and makes the <hi>EARTH</hi> to quake;</l>
+               <l>That flings down <hi>STARS,</hi> and doth the <hi>HEAVENS</hi> ſhake;</l>
+               <l>That makes thoſe vaſt <hi>EXPANSIONS</hi> for to roul,</l>
+               <l>And ſhrink themſelves together, like a ſcroul?</l>
+               <l>How ſhall <hi>I</hi> ſtand before that dreadful <hi>THRONE,</hi>
+               </l>
+               <l>From whence bright <hi>Lightnings</hi> &amp; great <hi>Thundrings</hi> come?</l>
+               <l>Who can abide the <hi>Fierceneſs</hi> of his <hi>Ire,</hi>
+               </l>
+               <l>Whoſe <hi>Indignation</hi>'s poured out like <hi>Fire?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Nun.</speaker>
+               <l>But go he muſt; <hi>Death</hi> pierc'd his tender ſide,</l>
+               <l>And in his Heart bloud his bright Dart he dy'd.</l>
+               <pb n="19" facs="tcp:105559:11"/>
+               <l>Out flies the trembling <hi>SO<g ref="char:V">Ʋ</g>L,</hi> a Guard doth hale</l>
+               <l>It to that Court admitteth of no Bayle.</l>
+               <l>Her <hi>Mittimus</hi> is drawn, ſhe's ſent away,</l>
+               <l>To lye in Priſon till the <hi>J<g ref="char:V">Ʋ</g>DGMENT</hi> Day.</l>
+               <l>Let's lay our ears unto the <hi>Doleful Pit,</hi>
+               </l>
+               <l>And hearken there what doth become of it.</l>
+            </sp>
+            <stage>THe <hi>SO<g ref="char:V">Ʋ</g>L</hi> and the <hi>DEVIL.</hi>
+            </stage>
+            <sp>
+               <speaker>Soul.</speaker>
+               <l>Deceitful <hi>Devil,</hi> Wilt thou now <hi>torment</hi>
+               </l>
+               <l>That <hi>SO<g ref="char:V">Ʋ</g>L,</hi> thou lately flatt'redſt with <hi>Content?</hi>
+               </l>
+               <l>Are all thoſe Promiſes thou mad'ſt of <hi>Bliſs,</hi>
+               </l>
+               <l>And future <hi>Glory;</hi> are they come to this?</l>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <l>My Promiſes, vain <hi>SO<g ref="char:V">Ʋ</g>L,</hi> they were miſtook,</l>
+               <l>I us'd them but as Baits to hide my <hi>Hook;</hi>
+               </l>
+               <l>My end's accompliſh'd, I the prey have caught,</l>
+               <l>And now I'le uſe thee as my <hi>CAPTIVES</hi> ought;</l>
+               <l>With Chains of <hi>Darkneſs</hi> I muſt bind thee faſt,</l>
+               <l>And in theſe <hi>FLAMES</hi> of <hi>WRATH</hi> I muſt thee caſt.</l>
+            </sp>
+            <sp>
+               <speaker>Soul.</speaker>
+               <l>O wretched <hi>SO<g ref="char:V">Ʋ</g>L!</hi> how haſt thou loſt that place</l>
+               <l>Where <hi>SAINTS</hi> and <hi>ANGELS</hi> do behold the <hi>FACE</hi>
+               </l>
+               <l>Of Everlaſting <hi>GLORY,</hi> and do ſing</l>
+               <l>Eternal <hi>HALLEL<g ref="char:V">Ʋ</g>IAHS</hi> to their <hi>KING.</hi>
+               </l>
+               <l>Upon whoſe Heads are Crowns of <hi>GLORY</hi> worne,</l>
+               <l>And by whoſe hands <hi>Triumphant PALMES</hi> are borne:</l>
+               <pb n="20" facs="tcp:105559:12"/>
+               <l>Who in the <hi>Boſom</hi> of dear <hi>LOVE</hi> do reſt,</l>
+               <l>And on the pureſt <hi>JOYES</hi> for ever feaſt;</l>
+               <l>Whil'ſt with the <hi>DAMNED SPIRITS</hi> I do make</l>
+               <l>My habitation in this <hi>FIRY LAKE;</hi>
+               </l>
+               <l>The Flaming <hi>PILE</hi> whereof is kindled by</l>
+               <l>The <hi>Breath</hi> of that incenſed <hi>MAJESTY,</hi>
+               </l>
+               <l>Which like a ſtream of <hi>Brimſtone,</hi> where it runs,</l>
+               <l>All things before it into FIRE turns.</l>
+               <l>Oh diſmal place! where <hi>Vollies</hi> of <hi>Outcries,</hi>
+               </l>
+               <l>And hideous <hi>Howlings</hi> like to <hi>Thunder</hi> flies:</l>
+               <l>The <hi>horrid noiſe,</hi> and dreadful <hi>ſhrieks</hi> that came</l>
+               <l>From the PHILISTINES, when that maſſy <hi>Frame,</hi>
+               </l>
+               <l>Bereft of both its <hi>Pillars,</hi> down did fall,</l>
+               <l>And into <hi>Death</hi> and <hi>Ruin</hi> cruſht them all;</l>
+               <l>The frightful <hi>Rorings,</hi> and the woful <hi>Cryes,</hi>
+               </l>
+               <l>Which <hi>SODOM</hi> ſent unto the <hi>Angry Skies,</hi>
+               </l>
+               <l>Whil'ſt on their wicked heads they forth did pour</l>
+               <l>(Of <hi>Fire</hi> and <hi>Brimſtone</hi>) a conſuming ſhowes;</l>
+               <l>Are inſtances too ſhort for to declare</l>
+               <l>Thoſe <hi>Wailings</hi> that among the DAMNED are.</l>
+               <l>Oh Woful State! their TORMENTS who can tell,</l>
+               <l>That with <hi>Devouring Fire</hi> for ever dwell?</l>
+               <l>The <hi>Wracking Wheel,</hi> on which the <hi>Bones</hi> are broke,</l>
+               <l>By a moſt gradual and deliberate ſtroke;</l>
+               <l>The <hi>Firy Pinchers,</hi> which deep <hi>Wounds</hi> do tear,</l>
+               <l>That <hi>ſcalding</hi> SULPHUR may be poured there;</l>
+               <l>The <hi>Stripes</hi> of SCORPIONS, that long Furrows make,</l>
+               <l>With cutting SAWS that through the <hi>MARROW</hi> rake:</l>
+               <pb n="21" facs="tcp:105559:12"/>
+               <l>The Stings of <hi>DRAGONS,</hi> and the rending Claws</l>
+               <l>Of rav'nous <hi>LYONS,</hi> for their hungry Jaws;</l>
+               <l>The CAULDRONS that with Plumbean liquor boyl,</l>
+               <l>The <hi>GRIDIR'NS</hi> whereon <hi>living Fleſh</hi> doth broyl;</l>
+               <l>With thouſands of like TORTURES, do not bear</l>
+               <l>Proportion to the TORMENTS that are here:</l>
+               <l>And yet this is the Portion of my <hi>Soul,</hi>
+               </l>
+               <l>Which now is like that dreadful, bitter <hi>Roul,</hi>
+               </l>
+               <l>Fill'd full with <hi>Lamentations, Mournings, Woes,</hi>
+               </l>
+               <l>And flouds of <hi>Wrath,</hi> which from <hi>Dire Vengeance</hi> flows.</l>
+               <l>Horrid <hi>reflections</hi> likewiſe do I find,</l>
+               <l>Adding great <hi>Anguiſh</hi> to my <hi>Tortur'd Mind,</hi>
+               </l>
+               <l>Whil'ſt I conſider, that for <hi>empty Toyes,</hi>
+               </l>
+               <l>I have for ever loſt <hi>ſubſtantial JOYS;</hi>
+               </l>
+               <l>And whil'ſt <hi>I</hi> think how oft <hi>I</hi> have rejected</l>
+               <l>That Counſel which to <hi>Peace</hi> my ſteps directed;</l>
+               <l>How oft <hi>I</hi> have extinguiſh'd that ſame light</l>
+               <l>Which <hi>CONSCIENCE</hi> brought to guide my feet aright;</l>
+               <l>How all my precious <hi>TIME I</hi> vainly ſpent,</l>
+               <l>And now no <hi>TIME</hi> is left for to <hi>Repent:</hi>
+               </l>
+               <l>This like a dreadful <hi>WORM</hi> doth ever gnaw</l>
+               <l>Upon my <hi>VITALS</hi> with inſatiate <hi>MAW.</hi>
+               </l>
+               <l>Oh now that <hi>Death,</hi> which late my heart-ſtrings broke,</l>
+               <l>Would come and eaſe me by a deeper ſtroke!</l>
+               <l>Oh, how <hi>I</hi> would as a ſweet <hi>Cordial,</hi> rate</l>
+               <l>That blow which ſhould this SOUL <hi>Annihilate!</hi>
+               </l>
+               <l>If ſuch a wiſh but granted <hi>I</hi> might have,</l>
+               <l>I would account that hand that <hi>killd,</hi> did <hi>ſave.</hi>
+               </l>
+               <pb n="22" facs="tcp:105559:13"/>
+               <l>Oh, this vvould <hi>Mercy</hi> prove, but none remains,</l>
+               <l>Not the leaſt drop to cool me in theſe <hi>FLAMES.</hi>
+               </l>
+               <l>
+                  <hi>I</hi> novv muſt Dying live, and Living dye,</l>
+               <l>Scorcht in theſe FLAMES to all <hi>Eternity.</hi>
+               </l>
+            </sp>
+            <lg>
+               <head>The EPILOGUE.</head>
+               <l>
+                  <hi>The end is</hi> Endleſs, <hi>he that will not take</hi>
+               </l>
+               <l>
+                  <hi>Example now, ſhall an</hi> Example <hi>make.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
